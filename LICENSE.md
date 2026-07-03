@@ -1,4 +1,4 @@
-# 
+# VIP AI Plant Species Classifier plugins. Con reconocimiento de voz y integración de chatbot — optimizado para el máximo rendimiento.
 
 
 
